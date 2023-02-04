@@ -1,0 +1,6 @@
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+colorlover==0.3.0
+cufflinks==0.17.3
+pandas-datareader==0.10.0
+plotly==5.11.0
+wincertstore==0.2
